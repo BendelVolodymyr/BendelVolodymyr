@@ -1,5 +1,5 @@
 ﻿# **Hi, I'm Volodymyr Bendel** 👋
-![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+my+profile;I'm+a+FulL+Stack+Developer)
+![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+my+profile;I'm+a+Full+Stack+Developer)
 <img width="100%" heigth src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg">
 
 ## My stack
