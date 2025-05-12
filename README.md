@@ -63,7 +63,7 @@
 
 ## Projects
 
-- 📁 [Awesome Project](https://github.com/yourusername/awesome-project): A brief description of the project.
+- 📁 [Awesome Project]([https://github.com/yourusername/awesome-project](https://github.com/BendelVolodymyr?tab=repositories)): A brief description of the project.
 
 ## GitHub Stats
 
