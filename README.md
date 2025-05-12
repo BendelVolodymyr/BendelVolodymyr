@@ -61,9 +61,12 @@
 - 🎸 Playing the guitar in my free time.
 - 📖 Reading tech blogs and articles.
 
-## Projects
+## 🚀 Projects
 
-- 📁 [Awesome Project]([https://github.com/BendelVolodymyr?tab=repositories]): A brief description of the project.
+- 📁 [Awesome Project (GitHub)](https://github.com/BendelVolodymyr?tab=repositories) — A brief description of one of your public GitHub projects.
+- 📁 [My GitLab Projects](https://gitlab.com/BendelVolodymyr) — Explore more of my work hosted on GitLab.
+- 🛠️ I’m actively working on new projects — check out both platforms for updates!
+
 
 ## GitHub Stats
 
