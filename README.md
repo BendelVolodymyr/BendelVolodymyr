@@ -47,10 +47,13 @@
 - 💼 Working as a Software Engineer.
 - 🌱 Passionate about exploring new technologies and working on exciting projects.
 
-## Skills
+## 🧠 Skills
 
-- 💻 Technologies: JavaScript, React, Node.js.
-- 🛠️ Tools: Git, VS Code.
+- 💻 **Frontend**: JavaScript, TypeScript, React, Next.js, Redux
+- ⚙️ **Backend**: Node.js, Express.js, NestJS, Socket.io, GraphQL
+- 🗃️ **Databases**: MongoDB, PostgreSQL, MySQL
+- 🚀 **DevOps / Tools**: Git, Docker, VS Code
+- 🧪 **Testing & Code Quality**: Jest, ESLint, Prettier
 
 ## Interests
 
