@@ -64,7 +64,7 @@
 ## 🚀 Projects
 
 - 📁 [Awesome Project (GitHub)](https://github.com/BendelVolodymyr?tab=repositories) — A brief description of one of your public GitHub projects.
-- 📁 [My GitLab Projects](https://gitlab.com/BendelVolodymyr) — Explore more of my work hosted on GitLab.
+- 📁 [My GitLab Projects](https://gitlab.com/bendel.vova) — Explore more of my work hosted on GitLab.
 - 🛠️ I’m actively working on new projects — check out both platforms for updates!
 
 
